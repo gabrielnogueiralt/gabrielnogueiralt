@@ -5,7 +5,7 @@ Currently, a Computer Science student, Junior Researcher, teacher assistant, mem
 ❤️ Passionate about **teaching** others and exploring **new technologies**. In my spare time I like to play guitar, bass, listen to a lot of music and be with the people I love.
 
 ## 💻 Professional projects
-- [**Dissertio**](https://jpedroh.github.io/mach/): Dissertio is a spell checker, grammatical and syntactic that uses resources built with Artificial Intelligence. 
+- [**Dissertio**](https://dissertio.com/): Dissertio is a spell checker, grammatical and syntactic that uses resources built with Artificial Intelligence. 
 
 > Front-end -> Vue and BootstrapVue. Back-end -> Languagetool (Java), Firebase. 
 
@@ -14,7 +14,7 @@ Currently, a Computer Science student, Junior Researcher, teacher assistant, mem
 > Front-end -> Angular and Material Design. Back-end -> Python, PM4PY, Flask. Infrastructure -> Docker, Nginx.
 
 ## 📜 What have I been coding with?
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnogueiralt&hide=C#,ASP.NET&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnogueiralt&hide=C#,ASP.NET)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Get in touch
 - Linkedin: https://www.linkedin.com/in/gabriel-n-132451122/
