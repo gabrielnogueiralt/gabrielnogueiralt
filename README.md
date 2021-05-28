@@ -1,8 +1,8 @@
-# Hi there, I'm Gabriel Nogueira 👋
-Currently, a Computer Science student [@UFPE](https://www3.cin.ufpe.br/en/).
+# Hi there, I'm Gabriel Nogueira 🙋‍♂️👋
+Currently, a Computer Science student, Junior Researcher, teacher assistant, member of PET Informática [@PET](https://pet.cin.ufpe.br/), [@UFPE](https://www3.cin.ufpe.br/en/) and Intern [@Brainy Resolution] (https://brainyresolution.com/).
 
-## 😆 Quick facts about me
-❤️ I love **open source** and **learning new things**.
+## 🤘 Quick facts about me
+❤️ Passionate about **teaching** others and exploring **new technologies**. In my spare time I like to play guitar, bass, listen to a lot of music and be with the people I love.
 
 ## 💻 Professional projects
 - [**Dissertio**](https://jpedroh.github.io/mach/): Dissertio is a spell checker, grammatical and syntactic that uses resources built with Artificial Intelligence. 
