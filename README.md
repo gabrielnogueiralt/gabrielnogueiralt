@@ -14,7 +14,7 @@ Currently, a Computer Science student, Junior Researcher, teacher assistant, mem
 > Front-end -> Angular and Material Design. Back-end -> Python, PM4PY, Flask. Infrastructure -> Docker, Nginx.
 
 ## 📜 What have I been coding with?
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnogueiralt&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnogueiralt&hide=C#,ASP.NET&layout=compact" />
 
 ## 📫 Get in touch
 - Linkedin: https://www.linkedin.com/in/gabriel-n-132451122/
