@@ -13,6 +13,17 @@ Currently, a Computer Science student, Junior Researcher, teacher assistant, mem
 
 > Front-end -> Angular and Material Design. Back-end -> Python, PM4PY, Flask. Infrastructure -> Docker, Nginx.
 
+### Languages and Tools:
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="Vue" width="26px" src="https://e7.pngegg.com/pngimages/789/586/png-clipart-gray-and-green-v-vue-js-logo-icons-logos-emojis-tech-companies-thumbnail.png" />][reactplaylist]
+[<img align="left" alt="Python" width="26px" src="https://e7.pngegg.com/pngimages/621/411/png-clipart-computer-icons-python-anaconda-anaconda-angle-other-thumbnail.png" />][reactplaylist]
+[<img align="left" alt="Java" width="26px" src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" />][reactplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
 ## 📜 What have I been coding with?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnogueiralt&exclude_repo=IF687-Multimidia,Projeto-SD)](https://github.com/anuraghazra/github-readme-stats)
 
