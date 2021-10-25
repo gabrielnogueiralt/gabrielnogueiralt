@@ -4,6 +4,8 @@ Currently, a Computer Science student, Junior Researcher, teacher assistant, mem
 ## 🤘 Quick facts about me
 ❤️ Passionate about **teaching** others and exploring **new technologies**. In my spare time I like to play guitar, bass, listen to a lot of music and be with the people I love.
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-morato-673576108/)](https://www.linkedin.com/in/gabrielnogueiralt/)
+
 ## 💻 Professional projects
 - [**Dissertio**](https://dissertio.com/): Dissertio is a spell checker, grammatical and syntactic that uses resources built with Artificial Intelligence. 
 
