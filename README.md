@@ -1,5 +1,5 @@
 # Hi there, I'm Gabriel Nogueira 🙋‍♂️👋
-Currently, a Computer Science student, Junior Researcher, teacher assistant, member of PET Informática [@PET](https://pet.cin.ufpe.br/), [@UFPE](https://www3.cin.ufpe.br/en/) and Intern [@BrainyResolution](https://brainyresolution.com/).
+Currently, a Computer Science student, Researcher, teacher assistant, member of PET Informática [@PET](https://pet.cin.ufpe.br/), [@UFPE](https://www3.cin.ufpe.br/en/) and Intern [@BrainyResolution](https://brainyresolution.com/).
 
 ## 🤘 Quick facts about me
 ❤️ Passionate about **teaching** others and exploring **new technologies**. In my spare time I like to play guitar, bass, listen to a lot of music and be with the people I love.
