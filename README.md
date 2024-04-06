@@ -7,6 +7,11 @@ I'm a Software Developer at [@Vigil](https://www.vigil.global/), pursuing a Mast
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-morato-673576108/)](https://www.linkedin.com/in/gabrielnogueiralt/)
 
 ## 💻 Professional projects
+- [**Ronin**](https://www.roninbet.com/): Sports betting platform, containing various features such as live video streams, interactive boards, real-time information and much more.
+
+> Front-end -> Vue 3, Bootstrap and Prismic CMS. Back-end -> Java, Spring, Node.JS, AWS (RDS, Lambda). Infrastructure -> Docker, Nginx, AWS (S3, Cloudfront), Github Actions.
+
+> Front-end -> Angular and Material Design. Back-end -> Python, PM4PY, Flask. Infrastructure -> Docker, Nginx.
 - [**CIN-CNJ Process Mining**](https://jump.pdpj.jus.br/): Innovation project with the National Council of Justice (CNJ). The project involves research in process mining, study of existing tools and design and development of a process mining tool with a focus on the Brazilian judiciary.
 
 > Front-end -> Angular and Material Design. Back-end -> Python, PM4PY, Flask. Infrastructure -> Docker, Nginx.
