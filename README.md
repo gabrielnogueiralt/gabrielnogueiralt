@@ -1,5 +1,5 @@
 # Hi there, I'm Gabriel Nogueira 🙋‍♂️👋
-I'm a Software Developer at [@Vigil](https://www.vigil.global/), pursuing a Master's Degree in Computer Science, and holding a Bachelor's Degree from CIn - UFPE [@UFPE](https://portal.cin.ufpe.br/).
+I'm a Software Developer at [@TXODDS](https://txodds.net/), pursuing a Master's Degree in Computer Science, and holding a Bachelor's Degree from CIn - UFPE [@UFPE](https://portal.cin.ufpe.br/).
 
 ## 🤘 Quick facts about me
 ❤️ Passionate about **teaching** others and exploring **new technologies**. In my spare time I like to play guitar, listen to a lot of music and be with the people I love.
